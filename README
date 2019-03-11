@@ -1,0 +1,7 @@
+Clone of Flappy Bird for Raspberry Pi, written in Python. Displayed on 128x64 OLED display.
+
+Movement is done via push button.
+This version has built-in a simple, yet effective AI.
+
+by
+Hard Drill Studio
